@@ -38,14 +38,20 @@ namespace Practises
             {
                 countTrue += 1;
             }
-            
-            //Checking true if need third question or not
+
+            //Checking win if need third question or not
+            if (countTrue == 2)
+            {
+                Console.WriteLine("You already won the prize in 2 question!!!");
+                Environment.Exit(0);
+            }    
+
+            //Checking true if need third question or zero chance
             if (countTrue == 0)
             {
                 Console.WriteLine("Unfortunately your both answers is wrong and no need to see third one :( Next time please!");
                 Environment.Exit(0);
             }
-            
             //If still possible for winning asking third and check win or almost
             else {
                 Console.WriteLine("Your third question is {0}", thirdQuestion);
