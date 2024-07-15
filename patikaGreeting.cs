@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace patikaGreeting
+namespace PatikaGreeting
 {
-    internal class patikaGreeting
+    internal class PatikaGreetingTask
     {
         static void Main(string[] args)
         {
