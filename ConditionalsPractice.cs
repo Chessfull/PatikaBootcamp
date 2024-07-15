@@ -33,7 +33,7 @@ namespace Practises
             else {
                 Console.WriteLine("And also your number is odd.");
             }
-            //Note: This practice is not about error handling and single responsibility, just focusing two things above
+            //Note: This practice is not about error handling and single responsibility, just focusing two things above.
         }
     }
 }
