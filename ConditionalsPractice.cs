@@ -8,7 +8,7 @@ namespace Practises
 {
     internal class ConditionalsPractice
     {
-        //I called this method in my main structre in my 'Practises' folder.
+        //I called this method in main structre in my 'Practises' folder.
         public void Task()
         {
             Console.Write("Please write your number that you want know position of '10' and is even/odd?:");
