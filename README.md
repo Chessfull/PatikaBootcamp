@@ -1,7 +1,6 @@
-# This is a project that includes tasks and practises at Patika+ Full Stack Web Developer Bootcamp.
+## This is a project that includes tasks and practises at Patika+ Full Stack Web Developer Bootcamp.
 
-##Task-Practise List
-
-**patikaGreeting** //Simple console app for greeting myself
+### Task-Practise List
+_patikaGreeting_ >> Simple console app for greeting myself
 
 
