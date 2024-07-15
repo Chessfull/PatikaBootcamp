@@ -1,2 +1,6 @@
-# patikaGreeting
-Starting task for greeting myself at Patika+ Bootcamp.
+This is a project that includes tasks and practises at Patika+ Full Stack Web Developer Bootcamp.
+
+Task-Practise List
+# patikaGreeting //Simple console app for greeting myself
+
+
