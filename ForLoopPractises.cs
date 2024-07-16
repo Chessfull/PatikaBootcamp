@@ -1,4 +1,4 @@
-using System;
+using System; //Only need
 namespace Practises
 {
     internal class ForLoopPractises
