@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System; //Only need
 
 namespace Practises
 {
@@ -10,6 +6,10 @@ namespace Practises
     {
         static void Main(string[] args)
         {
+            //Patika Greeting
+            PatikaGreeting greeting = new PatikaGreeting();
+            greeting.Task();
+
             //Conditionals Practice
             ConditionalsPractice conditionalsPractice = new ConditionalsPractice();
             conditionalsPractice.Task();
