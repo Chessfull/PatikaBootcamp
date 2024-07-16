@@ -6,3 +6,4 @@
 - [_switchPractice_](https://github.com/Chessfull/PatikaBootcamp/blob/main/SwitchPractise.cs) >> Switch usage practise comparision with If/Else blocks as well.
 - [_quizMiniProgram_](https://github.com/Chessfull/PatikaBootcamp/blob/main/QuizProgramPractise.cs) >> Mini funny quiz program that checking win/loss possibilities etc. with conditional blocks.
 - [_forLoopPractises_](https://github.com/Chessfull/PatikaBootcamp/blob/main/ForLoopPractises.cs) >> Couple practises with numbers about 'for' loop operations.
+- [_whilePractises_](https://github.com/Chessfull/PatikaBootcamp/blob/main/WhilePractises.cs) >> Couple practises with numbers using 'while' loop.
