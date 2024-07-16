@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+using System;
 namespace Practises
 {
     internal class ForLoopPractises
@@ -41,7 +36,7 @@ namespace Practises
             //5.
             int oddSum = 0;
             int evenSum = 0;
-            for (int i = 0; i <= 120; i +=2)
+            for (int i = 0; i <= 120; i ++)
             {
                 if (i % 2 == 0)
                 {
@@ -57,4 +52,3 @@ namespace Practises
         }
     }
 }
-
