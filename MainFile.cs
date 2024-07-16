@@ -10,6 +10,10 @@ namespace Practises
     {
         static void Main(string[] args)
         {
+            //Holiday Cost Calculator App
+            HolidayCostCalculationApp holidayCost = new HolidayCostCalculationApp();
+            holidayCost.Task();
+
             //Do While / While difference Practise
             DoWhilePractises doWhilePractises = new DoWhilePractises();
             doWhilePractises.Task();
