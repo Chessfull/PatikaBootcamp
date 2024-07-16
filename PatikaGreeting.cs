@@ -1,13 +1,13 @@
-﻿using System; //Only need
+using System; //Only need
 
-namespace PatikaGreeting
+namespace Practises
 {
-    internal class PatikaGreetingTask
+    internal class PatikaGreeting
     {
-        static void Main(string[] args)
+        public void Task()
         {
             Console.WriteLine("Mert Topçu\nKendimi motive hissettiğim, tutku duyduğum bir alana profesyonel olarak yönelmek için Kodluyoruz'dan itibaren takip ettiğim Patika topluluğunda, emin ellerdeyim! ");
-            Console.ReadLine();        
+            Console.ReadLine();
         }
     }
 }
