@@ -10,6 +10,10 @@ namespace Practises
     {
         static void Main(string[] args)
         {
+            //Do While / While difference Practise
+            DoWhilePractises doWhilePractises = new DoWhilePractises();
+            doWhilePractises.Task();
+                
             //While Practice
             WhilePractises whilePractises = new WhilePractises();
             whilePractises.Task();
