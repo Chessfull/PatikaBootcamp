@@ -9,3 +9,4 @@
 - [_whilePractises_](https://github.com/Chessfull/PatikaBootcamp/blob/main/WhilePractises.cs) >> Couple practises with numbers using 'while' loop.
 - [_doWhilePractises_](https://github.com/Chessfull/PatikaBootcamp/blob/main/DoWhilePractises.cs) >> Couple practises for realising difference between 'do while' and 'while'.
 - [_holidayCostCalculatorApp_](https://github.com/Chessfull/PatikaBootcamp/blob/main/HolidayCostCalculationApp.cs) >> A cost calculator app with multiple options.
+- [_methodPractises_](https://github.com/Chessfull/PatikaBootcamp/blob/main/MethodPractises.cs) >> Method Practises.
