@@ -10,7 +10,6 @@ namespace Practises
     {
         static void Main(string[] args)
         {
-
             //While Practice
             WhilePractises whilePractises = new WhilePractises();
             whilePractises.Task();
