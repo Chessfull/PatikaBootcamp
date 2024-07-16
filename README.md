@@ -7,4 +7,5 @@
 - [_quizMiniProgram_](https://github.com/Chessfull/PatikaBootcamp/blob/main/QuizProgramPractise.cs) >> Mini funny quiz program that checking win/loss possibilities etc. with conditional blocks.
 - [_forLoopPractises_](https://github.com/Chessfull/PatikaBootcamp/blob/main/ForLoopPractises.cs) >> Couple practises with numbers about 'for' loop operations.
 - [_whilePractises_](https://github.com/Chessfull/PatikaBootcamp/blob/main/WhilePractises.cs) >> Couple practises with numbers using 'while' loop.
-- [_doWhilePractises_](https://github.com/Chessfull/PatikaBootcamp/blob/main/DoWhilePractises.cs) >> Couple practises with input numbers for realising difference between 'do while' and 'while'.
+- [_doWhilePractises_](https://github.com/Chessfull/PatikaBootcamp/blob/main/DoWhilePractises.cs) >> Couple practises for realising difference between 'do while' and 'while'.
+- [_holidayCostCalculatorApp_](https://github.com/Chessfull/PatikaBootcamp/blob/main/HolidayCostCalculationApp.cs) >> A cost calculator app with multiple options.
